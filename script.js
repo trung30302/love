@@ -12,10 +12,10 @@ showSlide(current);
 
 // --- Typing Effect ---
 const text = `
-Chúc em bé của anh một ngày 01/06 thật vui vẻ và ý nghĩa! 🎉
+Chúc em bé của anh một ngày 01/06 thật vui vẻ và ý nghĩa! 💖
 Chúc em bé luôn cười thật tươi, hạnh phúc và mãi mãi là cô gái anh thương nhất nhé!
 
-💌 Yêu em nhiều! 💌
+💖 Yêu em nhiều! 💖
 `;
 
 let i = 0;
